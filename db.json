@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "title": "Oppo A17",
+      "category": "smartphones",
+      "price": 249.99,
+      "brand": "Oppo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "5",
+      "title": "Oppo F19 Pro+",
+      "category": "smartphones",
+      "price": 1999.99,
+      "brand": "Oppo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "6",
+      "title": "Apple MacBook Pro",
+      "category": "laptops",
+      "price": 1999.99,
+      "brand": "Apple",
+      "description": "worth for buying"
+    },
+    {
+      "id": "7",
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "category": "laptops",
+      "price": 1799.99,
+      "brand": "Asus",
+      "description": "worth for buying"
+    },
+    {
+      "id": "10",
+      "title": "New DELL XPS 13 9300 Laptop",
+      "category": "laptops",
+      "price": 49.99,
+      "brand": "Dell",
+      "description": "worth for buying"
+    },
+    {
+      "id": "13",
+      "title": "Dior J'ado",
+      "category": "fragrances",
+      "price": 69,
+      "brand": "Dior",
+      "description": "worth for buying"
+    },
+    {
+      "id": "15",
+      "title": "Gucci Bloom ",
+      "price": 79,
+      "brand": "Gucci",
+      "category": "fragrances",
+      "description": "worth for buying"
+    },
+    {
+      "id": "17",
+      "title": "Olay Ultra Moisture Shea Butter Body Wash",
+      "category": "skin-care",
+      "price": 12.99,
+      "brand": "Olay",
+      "description": "worth for buying"
+    },
+    {
+      "id": "19",
+      "title": "Annibale Colombo Bedddd",
+      "price": 249,
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "description": "worth for buying andddd etc"
+    },
+    {
+      "id": "20",
+      "title": "Annibale Colombo Sofa",
+      "category": "furniture",
+      "price": 2499.99,
+      "brand": "Annibale Colombo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "24",
+      "title": "Generic Motorcycle",
+      "category": "motorcycle",
+      "price": 3999.99,
+      "brand": "Generic Motors",
+      "description": "worth for buying"
+    },
+    {
+      "id": "25",
+      "title": "Kawasaki Z800",
+      "category": "motorcycle",
+      "price": 8999.99,
+      "brand": "Kawasaki",
+      "description": "worth for buying"
+    },
+    {
+      "id": "26",
+      "title": "MotoGP CI.H1",
+      "category": "motorcycle",
+      "price": 14999.99,
+      "brand": "MotoGP",
+      "description": "worth for buying"
+    },
+    {
+      "id": "27",
+      "title": "Scooter Motorcycle",
+      "category": "motorcycle",
+      "price": 2999.99,
+      "brand": "ScootMaster",
+      "description": "worth for buying"
+    },
+    {
+      "id": "28",
+      "title": "Sportbike Motorcycle",
+      "category": "motorcycle",
+      "price": 7499.99,
+      "brand": "SpeedMaster",
+      "description": "worth for buying"
+    },
+    {
+      "id": "10c7",
+      "title": "sonywatch",
+      "price": "2020",
+      "category": "watch",
+      "brand": "sony"
+    },
+    {
+      "id": "fc0b",
+      "title": "new",
+      "price": "1",
+      "category": "new",
+      "brand": "new"
+    },
+    {
+      "id": "2c26",
+      "title": "newnew",
+      "price": "121",
+      "category": "newnew",
+      "brand": "newnew",
+      "description": "enwnew"
+    },
+    {
+      "id": "ddd2",
+      "title": "test new product",
+      "price": "1010",
+      "category": "bb",
+      "brand": "new test brand",
+      "description": "aa"
+    },
+    {
+      "id": "57da",
+      "title": "mi",
+      "price": 45,
+      "category": "mobile",
+      "brand": "redmi",
+      "description": "new one"
+    },
+    {
+      "id": "691a",
+      "title": "poco",
+      "price": "19900",
+      "category": "smartphones",
+      "brand": "mi",
+      "description": "wroth varma"
+    },
+    {
+      "id": "822a",
+      "title": "ear buds",
+      "price": 2000,
+      "category": "headphones",
+      "brand": "boat",
+      "description": "here for hear"
+    },
+    {
+      "id": "7560",
+      "title": "moto g64",
+      "price": 20000,
+      "brand": "moto",
+      "category": "smartphones",
+      "description": "advance features"
+    },
+    {
+      "id": "1e69",
+      "title": "thinkpad",
+      "price": 200000,
+      "brand": "lenovo",
+      "category": "laptops",
+      "description": "highly recommended  for heavy useage"
+    },
+    {
+      "id": "ed25",
+      "title": "mac book",
+      "price": 101001,
+      "brand": "apple",
+      "category": "laptops",
+      "description": "worth"
+    },
+    {
+      "id": "a062",
+      "title": "engage",
+      "price": 1001,
+      "brand": "engage",
+      "category": "fragrances",
+      "description": "nice one"
+    },
+    {
+      "id": "6737",
+      "title": "enfield classic 350",
+      "price": 100000,
+      "brand": "royal enfield",
+      "category": "motorcycle",
+      "description": "classic  one"
+    },
+    {
+      "id": "0d6b",
+      "title": "oneplus nord",
+      "price": 202000,
+      "brand": "oneplus",
+      "category": "smartphones",
+      "description": "lsakndisub ckjds "
+    }
+  ]
+}
